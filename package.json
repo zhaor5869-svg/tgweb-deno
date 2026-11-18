@@ -1,1 +1,1 @@
-{"dependencies":{"@netlify/server":"0.1.6","ws":"^8.23.0"},"name":"tgweb","private":true,"type":"module"}
+{"dependencies":{"@netlify/server":"0.1.6","ws":"^8.23.0"},"name":"tgweb","private":true,"scripts":{"start":"node server.js"},"type":"module"}
